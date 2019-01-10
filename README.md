@@ -2,4 +2,4 @@
 
 Variable angle text.
 
-Deployed as a [github page]( https://abonello.github.io/variableAngle/.).
+Deployed as a [github page]( https://abonello.github.io/variableAngle).
